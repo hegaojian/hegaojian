@@ -1,7 +1,7 @@
 
 <h2 align="center">
   
-:chicken::basketball: Hi 欢迎来到鸡你太美的GitHub主页，让我们来一起快乐滴打篮球吧~
+:chicken: Hi 鸡你太美 :basketball:
   
 </h2>
 

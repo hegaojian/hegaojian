@@ -4,8 +4,9 @@
 :chicken: Hi 鸡你太美 :basketball:
   
 </h2>
+
 <audio controls>
-  <source src="ngm.mp3" type="audio/mpeg">
+  <source src="ngm.wav" type="audio/mpeg">
 </audio>
 
 <img width="20%"  src = "https://upload-images.jianshu.io/upload_images/9305757-2663249dffd36060.gif?imageMogr2/auto-orient/strip"/><img width="20%" src = "https://upload-images.jianshu.io/upload_images/9305757-2663249dffd36060.gif?imageMogr2/auto-orient/strip"/><img width="20%" src = "https://upload-images.jianshu.io/upload_images/9305757-2663249dffd36060.gif?imageMogr2/auto-orient/strip"/><img width="20%" src = "https://upload-images.jianshu.io/upload_images/9305757-2663249dffd36060.gif?imageMogr2/auto-orient/strip"/><img width="20%" src = "https://upload-images.jianshu.io/upload_images/9305757-2663249dffd36060.gif?imageMogr2/auto-orient/strip"/>
